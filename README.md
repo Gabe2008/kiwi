@@ -1,7 +1,7 @@
 # kiwi (3 wheel holonomic drive)
 ![kiwidrive](https://user-images.githubusercontent.com/90653423/169187839-7a299f56-82b7-4fef-9c61-f1525697cf21.jpg)
 
-build instructions https://github.com/Gabe2008/kiwi/wiki/Instructions-to-Assemble-a-Kiwi-Robot
+build instructions https://github.com/Gabe2008/kiwi/wiki
 
 idea from https://docs.ftclib.org/ftclib/features/drivebases
 
